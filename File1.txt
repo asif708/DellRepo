@@ -1,5 +1,12 @@
 class MyClass{
 
+	void MyMethod(){
+	
+	System.out.println("My Method called");
+
+	}
+
+
 	main(){
 	System.out.println("Hello Git");
 	}
