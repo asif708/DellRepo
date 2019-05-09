@@ -7,7 +7,7 @@ class MyClass{
 	}
 
 	void display(){
-
+		sysout(display details of MyClass);
 	}
 	main(){
 
