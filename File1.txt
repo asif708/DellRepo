@@ -1,6 +1,6 @@
 class MyClass{
 
-	void MyMethod(){
+	static void MyMethod(){
 	
 	System.out.println("My Method called");
 
@@ -8,7 +8,10 @@ class MyClass{
 
 
 	main(){
+
+	MyMethod();	
 	System.out.println("Hello Git");
+
 	}
 
 }
