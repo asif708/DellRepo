@@ -7,7 +7,9 @@ class MyClass{
 	}
 
 	void display(){
-		System.out.println("***Display details of MyClass***");
+
+		System.out.println("!!!***Display details of MyClass***!!!");
+
 	}
 	main(){
 
