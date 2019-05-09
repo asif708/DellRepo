@@ -6,7 +6,9 @@ class MyClass{
 
 	}
 
+	void display(){
 
+	}
 	main(){
 
 	MyMethod();	
