@@ -6,14 +6,14 @@ class MyClass{
 
 	}
 
-	void display(){
+	static void display(){
 
 		System.out.println("!!!***Display details of MyClass***!!!");
 
 	}
 	main(){
-	MyClass obj = new MyClass();
-	obj.display();
+	//MyClass obj = new MyClass();
+	display();
 	MyMethod();	
 	System.out.println("Hello Git");
 	//Change -- >1***
