@@ -12,7 +12,8 @@ class MyClass{
 
 	}
 	main(){
-	display();
+	MyClass obj = new MyClass();
+	obj.display();
 	MyMethod();	
 	System.out.println("Hello Git");
 	//Change -- >1***
